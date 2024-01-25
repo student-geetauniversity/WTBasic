@@ -1,0 +1,145 @@
+*{
+    padding:0;
+    margin:0;
+}
+#heading3{
+    color:blue;
+    background-color: grey;
+}
+.layout{
+    width: 1000px;
+    margin: 0 auto ;
+}
+.header{
+    height: 200px;
+    width: 100%;
+    background-color: lightskyblue;
+}
+.nav-part{
+    height: 30px;
+    width: 100%;
+    background-color: grey;
+}
+.main_area{
+    height: 300px;
+    width: 100%;
+    background-color: yellow;
+}
+.footer{
+    height: 60px;
+    width: 100%;
+    background-color: lightskyblue;
+}
+.container{
+           width: 850px;
+        margin: 0 auto;
+}
+.gallery-row{
+    height:200px;
+}
+.image-item{
+         width:20%;
+         float:left;
+         height : 180px;
+}
+.image-item img{
+    height : 100%;
+    width:100%;
+}
+/* .choose-country{
+    height:100%;
+    width: 850px;
+    margin: 0 auto;
+    background-color: lightblue;
+}
+.heading h2{
+    text-align:center;
+}
+.country-all{
+    height:200px;
+    background-color:white;
+    box-shadow:2px 2px 2px;
+    width:80%;
+    margin-top:20px;
+    padding-top:10px;
+}
+.item{
+    width:20%;
+    float:left;
+    height : 200px;
+    margin-left:30px;
+}
+.item img{
+    height : 100%;
+    width:100%;
+}
+.item h3{
+    text-align:center;
+}
+.item h{
+    text-align:center;
+} */
+.choose-country{
+    height:300px;
+    width:100%;
+    margin: 0 auto;
+    background-color:cornsilk;
+}
+/* .heading{} */
+.heading h2{
+    text-align:center;
+    padding-top: 10px;
+}
+.country{
+    width: 80%;
+    background-color: white;
+    box-shadow: 2px 2px 5px;
+    height: 200px;
+    margin: 0 auto;
+    margin-top: 20px;
+    padding-top: 10px;
+}
+.item{
+    width: 22%;
+    float: left;
+    height: 150px;
+    margin-left: 20px;
+}
+.item img{
+    width: 50%;
+    height: 50%;
+}
+/* .item h4{}
+.item p{}
+.item button{} */
+
+.expert{
+    height: 400px;
+    width: 100%;
+    background-color: white;
+}
+.left-content{
+    width:30%;
+    float:left;
+    height: 250px;
+}
+.middle{
+    width: 80%;
+    margin:0 auto;
+    padding-top: 50px;
+}
+/* .left-content h5{}
+.left-content h1{}
+.left-content p{} */
+.left-content button{
+    background-color:rgb(47, 0, 255);
+}
+.image-box{
+    width:30%;
+    float:left;
+    height: 250px;
+}
+.image-box img{
+    height: 200px;
+    width: 100%;
+}
