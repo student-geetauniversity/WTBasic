@@ -1,0 +1,167 @@
+*{
+    padding:0;
+    margin:0;
+}
+.header-section{
+    width: 100%;
+    margin:0 auto;
+    display:flex;
+    height:70px;  
+    color:white;
+    background-color: rgb(57, 54, 54);
+    align-items: center;
+    justify-content:space-around;
+}
+.logo{
+    width:20%;
+}
+.logo h1{
+    text-align: center;
+}
+.nav{
+    width:50%;
+}
+.nav ul{
+    display:flex;
+    justify-content:space-around;
+}
+.nav ul li{
+    list-style:none;
+}
+.nav li a{
+    text-decoration:none;
+    text-transform: uppercase;
+}
+.social-icon{
+    width:30%;
+    text-align:center;
+}
+.social-icon i{
+    padding-left:10px;
+}
+
+.container{
+    height: 280px;
+    width: 100%;
+    background-color: rgb(189, 197, 207);
+}
+.organic{
+    width: 80%;
+    margin:0 auto;
+    padding-top: 50px;
+}
+.left-content{
+    width:30%;
+    float:left;
+    height: 250px;
+}
+.left-content button{
+    color:white;
+    background-color:rgb(17, 15, 15);
+    height:30px;
+    width:100px;
+}
+.image-box{ width:30%;
+    float:left;
+    height: 300px;
+}
+.image-box img{
+    height: 210px;
+    width: 110%;
+}
+.image-box button{
+    height:30px;
+    width:70px;
+}
+
+.choose-country{
+    height:400px;
+    width:100%;
+    margin: 0 auto;
+    background-color:rgb(250, 250, 250);
+} 
+ .country h1{
+    text-align:center;
+    padding-top: 10px;
+    color:white;
+    background-color:black;
+    box-shadow: black;
+} 
+.country{
+    width: 70%;
+    background-color: white;
+    box-shadow: 2px 2px 5px;
+    height: 45px;
+    margin: 0 auto;
+    margin-top: 20px;
+    padding-top: 10px;
+}
+.item{
+    width: 22%;
+    float: left;
+    height: 150px;
+    margin-left: 20px;
+}
+.item img{
+    width: 50%;
+    height: 50%;
+}
+.item button{
+    height:30px;
+    width:70px;
+}
+
+.cook{
+    height: 350px;
+    width: 100%;
+    background-color: rgb(189, 197, 207);
+}
+.order{
+    width: 80%;
+    margin:0 auto;
+    padding-top: 50px;
+}
+.place{
+    width:30%;
+    float:left;
+    height: 250px;
+}
+.order button{
+    color:white;
+    background-color:rgb(17, 15, 15);
+    height:50px;
+    width:150px;
+}
+.img-box{ width:30%;
+    float:left;
+    height: 300px;
+}
+.img-box img{
+    height: 280px;
+    width: 200%;
+}
+.head{
+    width: 100%;
+    margin:0 auto;
+    display:flex;
+    height:130px; 
+    color:white; 
+    background-color: black;
+    align-items: center;
+    justify-content:space-around;
+}
+.log{
+    width:20%;
+}
+
+.log ul li {
+    list-style:none;
+}
+
+.social{
+    width:30%;
+    text-align:center;
+}
+.social i{
+    padding-left:10px;
+}
